@@ -26,5 +26,5 @@ Click on the tile that wants to be deleted
 
 ## Edit Grid Size
 
-Type or click the size setting (from 2*2 to 20*20)
+Type or click the size setting (from 2x2 to 20x20)
 
